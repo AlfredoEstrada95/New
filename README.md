@@ -1,6 +1,4 @@
-# New
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlfredoEstrada95/New?files=1/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlfredoEstrada95/New/main)
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/AlfredoEstrada95/New?files=1/main
+ :target: https://mybinder.org/v2/gh/AlfredoEstrada95/New/main
